@@ -1,0 +1,8 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bettyYoungs/gulp-demo.git",
+  "author": "bettyYoung <bettyyoung0603@gmail.com>",
+  "license": "MIT"
+}
